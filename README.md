@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**G2uge/G2uge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**G2uge/G2uge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
