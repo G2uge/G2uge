@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G2uge)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🔥 编程语言使用
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G2uge)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **G2uge/G2uge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
